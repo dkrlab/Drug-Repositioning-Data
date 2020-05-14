@@ -1,6 +1,7 @@
-# Heter-LP
+We used this data for drug repositioning by Heter-LP (https://github.com/dkrlab/Heter-LP-code). It is also applicable for other drug development researches. 
 
-Codes are written by C# in visual studio 2015.
+Please cite this data by: 
+"M. Lotfi Shahreza, N. Ghadiri, S. R. Mousavi, J. Varshosaz, and J. R. Green, "Heter-LP: A heterogeneous label propagation algorithm and its application in drug repositioning," Journal of Biomedical Informatics, vol. 68, pp. 167-183, 2017."
 
 Data are provided as below: 
 
